@@ -1,0 +1,4 @@
+What is the difference between a merge and a rebase?
+- with merge you are trying to update your local repo to a working 
+directory while with rebase you are trying to update the start of your 
+branche to a later commit that happened after you branched out.
