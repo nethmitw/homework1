@@ -1,0 +1,3 @@
+What is a remote repository?
+- a remote repository is hosted in a server that all members of the team
+has access to.
