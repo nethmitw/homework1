@@ -1,4 +1,0 @@
-What is the difference between a merge and a rebase?
-- the difference is that with rebase,if you want to update the start of your branch to a 
-  later commit that happend after you branched out, this is the command to use.
-  With merge, if you want to update your local repo to the working directory, this is the command to use.
